@@ -1,4 +1,4 @@
-<h2 align="center">𝙸𝚝'𝚜 𝚖𝚎 𝓝𝓪𝓷𝓭𝓱𝓪.<br><br>A Full Stack Web Developer with "𝚉𝙴𝚁0" experience.</h2>
+<h2 align="start">𝙸𝚝'𝚜 𝚖𝚎 𝓝𝓪𝓷𝓭𝓱𝓪.<br><br>A Full Stack Web Developer with "𝚉𝙴𝚁0" experience.</h2>
 
 ###
 
